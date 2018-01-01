@@ -1,0 +1,199 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.hidden-wrapper {
+  width: 100%;
+  height: 140px;
+  overflow: hidden;
+}
+
+.header, .footer, .angle-for-header, .angle-for-footer {
+  /*background-color: #54a8ff;*/
+  /*background-color: #AAF0D1;*/
+}
+
+.angle-for-header {
+  bottom: -36px;
+  /*border-bottom: 3px solid black;*/
+  /*border-bottom: 1px solid #6bb6f3;*/
+  border-bottom: 5px solid #AAF0D1;
+}
+
+.angle-for-footer {
+  top: -34px;
+  /*border-top: 3px solid black;*/
+  /*border-top: 1px solid #6bb6f3;*/
+  border-top: 5px solid #AAF0D1;
+}
+
+.angle-for-header, .angle-for-footer {
+  position: absolute;
+  width: 103%;
+  height: 70px;
+  left: -5px;
+  z-index: -1;
+  transform: rotate(3deg);
+}
+
+.header {
+  width: 100%;
+  height: 60px;
+  position: relative;
+}
+
+.footer {
+  width: 100%;
+  height: 60px;
+  position: absolute;
+  bottom: 0;
+  text-align: center;
+}
+
+
+.footer-wrapper {
+  position: absolute;
+  bottom: 0;
+}
+
+.footer-inner {
+  position: relative;
+  height: 100%;
+}
+
+.menu {
+  width: 50%;
+  float: right;
+  margin-top: 30px;
+}
+
+.menu ul {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.menu ul li {
+  list-style: none;
+  display: inline-block;
+  margin: 0 27px;
+  font-size: 22px;
+}
+
+.menu ul li {
+  /*border: 1px solid #6bb6f3;*/
+  border-bottom: 4px solid #AAF0D1;
+  padding: 5px;
+}
+
+
+.logo {
+  width: 50px;
+  height: 50px;
+  background: white;
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.socials {
+  float: right;
+  width: 67%;
+  /*width: 31%;  Можно подвигать соцсети вправо-влево */
+  /*transform: rotate(3deg); /*Можно покрутить*/ 
+      transform: rotate(1deg);
+}
+
+.socials ul {
+  margin: 0;
+  padding: 0;
+}
+
+.socials ul li {
+/*  list-style: none;
+  display: inline-block;
+  margin: 0 13px;
+  background: white;
+  border-radius: 50%;
+  width: 40px;
+  height: 40px;
+  line-height: 2.6;
+  text-align: center;
+  border-color: black;
+  border: 2px solid #AAF0D1;*/
+
+    list-style: none;
+    display: inline-block;
+    margin: 0 78px;
+    background: white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    line-height: 2.9;
+    text-align: center;
+    border-color: black;
+    border: 4px solid #AAF0D1;
+}
+
+.social {
+
+}
+
+.rules {
+  width: 20%;
+  float: left;
+  margin-left: 40px;
+  margin-top: -38px;
+  font-size: 22px;
+}
+
+/*.rules-left, .rules-right {
+  border: 1px solid black;
+  padding: 5px;
+}
+*/
+.rules-left {
+  float: left;
+}
+
+.rules-right {
+  float: right;
+}
+
+.content-right-block {
+
+}
+
+.content-right-block .content-left-rules {
+  text-align: left;
+}
+
+.content-right-block .content-right-rules {
+  text-align: right;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.margin-top {
+  margin-top: 70px;
+}
+
+.half-width {
+  width: 60%;
+  text-align: center;
+  display: inline-block;
+  margin-left: 15%;
+}
+
+.bottom-line {
+  border: 0;
+  border-top: 5px solid #AAF0D1;
+  /*box-shadow: 0 0 10px rgba(0,0,0,0.5);*/
+}

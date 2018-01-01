@@ -1,0 +1,253 @@
+.wrapper {
+  /*width: 980px;*/
+  /*width: 1255px;*/
+      width: 1215px;
+  margin: 0 auto;
+}
+
+.no-padding {
+  padding: 0 !important;
+}
+
+.btn-login {
+  margin-right: 7%;
+}
+
+header {
+  /*background: #FFF;*/
+  /*background: #631526;*/
+  /*background: cornflowerblue;*/
+  /*background: #dd6a58;*/
+  /*background: #C33764;*/
+  /*background: #20002c;*/
+  /*background: #8e44ad;*/
+  /*background: #5B86E5;*/
+  /*background: #FF512F;*/
+  /*background: #F45C43;*/
+  /*background: #3A6073;*/
+  /*background: #480048;*/
+  background: #e65245;
+  height: 70px;
+  padding-top: 13px;
+  border: none;
+  border-bottom: 2px solid #e0e0e0;
+  box-shadow: 0 0 0 2px #e0e0e0;
+}
+
+.my-flask {
+  /*color: #631526;*/
+  /*color: #dd6a58;*/
+  /*color: #C33764;*/
+  /*color: #20002c;*/
+  /*color: #8e44ad;*/
+  /*color: #5B86E5;*/
+  /*color: #FF512F;*/
+  /*color: #F45C43;*/
+  /*color: #3A6073;*/
+  /*color: #480048;*/
+  color: #e65245;
+  font-size: 165px !important;
+  margin-left: 202px;
+}
+
+.my-rocket {
+  /*color: #631526;*/
+  /*color: #dd6a58;*/
+  /*color: #C33764;*/
+  /*color: #20002c;*/
+  /*color: #8e44ad;*/
+  /*color: #5B86E5;*/
+  /*color: #FF512F;*/
+  /*color: #F45C43;*/
+  /*color: #3A6073;*/
+  /*color: #480048;*/
+  /*наш не спиженный*/
+  color: #e65245; 
+  font-size: 165px !important;
+  margin-left: 202px;  
+
+}
+
+/*.logo img{
+  width: 51px;
+  height: 42px;
+}*/
+
+.logo img{
+  width: 27px;
+  height: 28px;
+  margin-left: 83px;
+  margin-top: -63px;
+}
+
+.pp {
+
+}
+
+.party {
+  letter-spacing: 10px;
+  font-size: 16px;
+  margin-top: 10px;
+  color: #fff;
+}
+
+
+.pe {
+  margin-left: 117px;
+  margin-top: -52px;
+  letter-spacing: 10px;
+  font-size: 16px;
+  color: #fff;
+}
+
+.content {
+  /*background-color: #f9f9f9;*/
+  /*background: url('../img/background.jpg');*/
+}
+
+#content {
+  background-color: #f9f9f9;
+  padding-bottom: 170px;
+}
+
+.left {
+  text-align: left;
+}
+
+.right {
+  text-align: right;
+}
+
+.btn-main {
+  /*background: cornflowerblue;*/
+  color: white;
+  padding: 11px 19px;
+  text-align: center;
+  display: inline-block;
+  border-radius: 3px;
+  font-size: 16px;
+}
+
+.btn-main.fixed-width {
+  width: 180px;
+}
+
+.main-page {
+  /*padding: 20px 0;*/
+      margin-top: 99px;
+}
+
+.main-page .h1 {
+  margin: 15px 0;
+}
+
+.main-icon {
+  width: 100%;
+  height: 160px;
+}
+
+/*.icon-left {
+  background: url(//www.upwork.com/static/marketing/adquiro-webpack/images/find-cl.28496fca3df3.svg) 50% no-repeat;
+}
+
+.icon-right {
+  background: url(//www.upwork.com/static/marketing/adquiro-webpack/images/hire-cl.febca6130d07.svg) 50% no-repeat;
+}
+*/
+.margin-top-50 {
+  margin-top: 50px;
+}
+
+.main-page .hr {
+  width: 25%;
+  border-top: 4px solid #e0e0e0;
+}
+
+.notes {
+  padding: 0 15%;
+  font-size: 17px;
+}
+
+.copyright {
+  color: #a0a0a0;
+}
+
+
+
+
+/*footer #1*/
+footer {
+/*  height: 170px;
+  border-top: 2px solid #e0e0e0;
+  box-shadow: 0 0 0 2px #e0e0e0;
+  padding-top: 40px;*/
+
+  height: 170px;
+  border-top: 2px solid #e0e0e0;
+  box-shadow: 0 0 0 2px #e0e0e0;
+  padding-top: 40px;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  z-index: 1;
+  background: white;
+}
+
+.footer-left, .footer-right {
+  padding-top: 22px;
+}
+
+.social {
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  background: #e0e0e0;
+  padding: 10px;
+  display: inline-block;
+  font-size: 22px;
+  margin-top: 10px;
+}
+
+
+/*footer #2*/
+
+/*footer {
+  height: 300px;
+  padding-top: 40px;
+}
+
+footer hr {
+  border-top: 1px solid #e0e0e0;
+}
+
+.fixed-width-little {
+  width: 42%;
+  padding: 12px 3px;
+  font-size: 12px;
+}
+
+.footer-left, .footer-right {
+  padding: 10px 0;
+}
+
+.social {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  background: #e0e0e0;
+  color: #a2a2a2;
+  padding: 4px;
+  display: inline-block;
+  font-size: 15px;
+  margin-top: 4px;
+  text-align: center;
+}
+
+.copyright {
+  text-align: center;
+  padding-top: 37px;
+}
+
+.footer-right-button {
+  margin-left: 7%;
+}*/

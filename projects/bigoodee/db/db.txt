@@ -1,0 +1,86 @@
+	users {
+		id,
+		email,
+		password,
+		contact, // хоть один предпочтительный
+		name, // Имя или название компании
+		age, // date of birthday
+		date, // date of registration
+		type, // 0 - user, 1 - company standart, 2 - ...
+		payment_time, // payment time for companies
+		rating,
+		events_count,
+		followers_count,
+		ip,
+		blocked, // default 0, if 1 = block
+		verified, // after email verify
+		noticed // default 1, if 0 = block notices
+	}
+
+	user_followers {
+		id,
+		user_id,
+		follower_id
+	}
+
+	user_bonuses {
+		id,
+		user_id,
+		bonuses_id
+	}
+
+	events {
+		id,
+		user_id, // need to index
+		title,
+		city,
+		place,
+		image, // if isset
+		description,
+		start, // date of start of event
+		tags, // 
+		status, // 1 - open, 0 - close
+		verify, // 1, 0, after admin checking
+		contact // from USER or from event
+	}
+
+	event_followers {
+		id,
+		event_id,
+		user_id
+	}
+
+	bonuses {
+		id,
+		name,
+		image
+	}
+
+	user_notices {
+		id,
+		user_id,
+		event_id,
+		title
+
+		(if read - delete)
+	}
+
+	ads {
+		id,
+		title,
+		image,
+		link,
+		end
+	}
+
+	user_ads {
+		id,
+		user_id,
+		ads_id,
+	}
+
+	favorites {
+		id,
+		event_id,
+		user_id,
+	}

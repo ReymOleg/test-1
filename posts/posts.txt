@@ -1,0 +1,60 @@
+- https://habrahabr.ru/company/mosigra/blog/329430/ (о бизнесе)
+
+- https://habrahabr.ru/company/e-Legion/blog/329374/ (Мобильный рынок в цифрах)
+
+- https://habrahabr.ru/post/329342/ (о продвижении)
+
+- https://habrahabr.ru/company/plarium/blog/329330/ (набор спрайтов для игр)
+
+- https://habrahabr.ru/company/pgdayrussia/blog/328690/ (sql vs orm)
+
+- http://apptractor.ru/info/articles/budushhee-posle-google.html (о рекламе)
+
+- https://habrahabr.ru/company/allcorrect/blog/328814/ (о рынке мобильных игр)
+
+- https://habrahabr.ru/company/alconost/blog/328224/ (о рынке мобильных игр)
+
+- https://habrahabr.ru/post/319348/ (что выбрать для мобильных)
+
+- https://habrahabr.ru/post/329516/ (онлайн маркетинг)
+
+- https://adindex.ru/news/researches/2017/05/25/159973.phtml (о мобильной рекламе)
+
+- https://tproger.ru/digest/what-php-developer-need-to-know/ (что нужно знать PHP разработчику)
+
+- http://rostov.rbcplus.ru/news/590162327a8aa94af0fc3e19?utm_source=rbc&utm_medium=plus&utm_campaign=may04-590162327a8aa94af0fc3e19?from=joined_project (о вещах)
+
+- https://habrahabr.ru/post/329626/ (о деле)
+
+- https://habrahabr.ru/post/329806/ (один из способов монетезиции мобильных приложений)
+
+- https://habrahabr.ru/post/329782/ (под капотом Angular 2)
+
+- https://habrahabr.ru/company/nixsolutions/blog/329718/ (сравнительная характеристика PHP фреймворков)
+
+- https://habrahabr.ru/post/328890/ (готовимся к собеседованию по PHP)
+
+- https://habrahabr.ru/post/329696/ (быстрая настройка Google Adwords)
+
+- https://habrahabr.ru/post/304182/ (GraphQL для создания API)
+
+- https://habrahabr.ru/company/mclouds/blog/329964/ (виды сервисов)
+
+- https://habrahabr.ru/company/appodeal/blog/329960/ (главный доклад о мире it)
+
+- https://habrahabr.ru/post/282253/ (Решение проблем организации бизнес-логики в PHP)
+
+- https://habrahabr.ru/company/cloud4y/blog/329936/ (ТОП 100 англоязычных сайтов об IT)
+
+- https://news.ycombinator.com (удобно собранные новости из сферы IT)
+
+- reddit.com (новости быстро)
+
+- https://habrahabr.ru/company/netologyru/blog/329836/ (о безопастности для сайта)
+
+- https://vc.ru/n/brave-ico (о новом браузере brave)
+
+- https://habrahabr.ru/company/appodeal/blog/330108/ (как работать с отзывами в App Store)
+
+- https://habrahabr.ru/post/329418/ (о тестах)
+
